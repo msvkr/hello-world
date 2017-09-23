@@ -1,3 +1,3 @@
 # hello-world
-testing learning
+testing learnin
 bu da editli hali
