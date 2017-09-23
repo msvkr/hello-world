@@ -1,4 +1,4 @@
 # hello-world
-testing learnin
+testing learni
 bu da editli hali
 s
